@@ -53,7 +53,8 @@ An interactive dashboard was created to visualize business performance, customer
 ---
 
 ## 📸 Dashboard Preview
-*(Add your dashboard screenshot here)*
+![dashboard1](image1.png)
+![dashboard1](image2.png)
 
 ---
 
